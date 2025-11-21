@@ -1,8 +1,4 @@
-# 🌐 GUÍA: SUBIR PROYECTO A GITHUB DESDE LA WEB
 
-## Sin usar comandos - Todo desde el navegador
-
----
 
 ## 📋 LO QUE NECESITAS
 
